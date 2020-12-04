@@ -25,3 +25,6 @@
 ## Online Component Marketplace
 
 - https://bit.dev/
+
+## Data
+https://github.com/nytimes/covid-19-data
