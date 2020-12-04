@@ -5,7 +5,7 @@
 - https://github.com/pomber/covid19
 - https://github.com/CSSEGISandData/COVID-19
 - https://meltingasphalt.com/interactive/outbreak/
-- https://gabgoh.github.io/COVID/index.html/
+- https://gabgoh.github.io/COVID/index.html
 - https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
 ## JS
