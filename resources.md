@@ -7,6 +7,8 @@
 - https://meltingasphalt.com/interactive/outbreak/
 - https://gabgoh.github.io/COVID/index.html
 - https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
+- https://prajwalsouza.github.io/Experiments/Epidemic-Simulation.html
+- https://learningsim.itch.io/pandemic-spread-simulation
 
 ## JS
 
