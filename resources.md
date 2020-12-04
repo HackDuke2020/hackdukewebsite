@@ -17,3 +17,11 @@
 ## UI
 
 - https://material-ui.com/
+
+## React Animation
+
+- https://www.framer.com/api/motion/
+
+## Online Component Marketplace
+
+- https://bit.dev/
