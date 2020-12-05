@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/hackdukewebsite/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/hackdukewebsite/static/js/main.af17f92f.chunk.js",
-    "main.js.map": "/hackdukewebsite/static/js/main.af17f92f.chunk.js.map",
+    "main.js": "/hackdukewebsite/static/js/main.1675d9e3.chunk.js",
+    "main.js.map": "/hackdukewebsite/static/js/main.1675d9e3.chunk.js.map",
     "runtime-main.js": "/hackdukewebsite/static/js/runtime-main.3c249a44.js",
     "runtime-main.js.map": "/hackdukewebsite/static/js/runtime-main.3c249a44.js.map",
-    "static/js/2.a5dd9ace.chunk.js": "/hackdukewebsite/static/js/2.a5dd9ace.chunk.js",
-    "static/js/2.a5dd9ace.chunk.js.map": "/hackdukewebsite/static/js/2.a5dd9ace.chunk.js.map",
+    "static/js/2.7b021956.chunk.js": "/hackdukewebsite/static/js/2.7b021956.chunk.js",
+    "static/js/2.7b021956.chunk.js.map": "/hackdukewebsite/static/js/2.7b021956.chunk.js.map",
     "static/js/3.b84cd17a.chunk.js": "/hackdukewebsite/static/js/3.b84cd17a.chunk.js",
     "static/js/3.b84cd17a.chunk.js.map": "/hackdukewebsite/static/js/3.b84cd17a.chunk.js.map",
     "index.html": "/hackdukewebsite/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/hackdukewebsite/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.a5dd9ace.chunk.js.LICENSE.txt": "/hackdukewebsite/static/js/2.a5dd9ace.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/hackdukewebsite/static/media/logo.6ce24c58.svg"
+    "static/js/2.7b021956.chunk.js.LICENSE.txt": "/hackdukewebsite/static/js/2.7b021956.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3c249a44.js",
-    "static/js/2.a5dd9ace.chunk.js",
+    "static/js/2.7b021956.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.af17f92f.chunk.js"
+    "static/js/main.1675d9e3.chunk.js"
   ]
 }
