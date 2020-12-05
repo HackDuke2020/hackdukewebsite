@@ -30,3 +30,4 @@
 
 - https://github.com/nytimes/covid-19-data
 - https://github.com/CSSEGISandData/COVID-19
+- https://github.com/Lucas-Czarnecki/COVID-19-CLEANED-JHUCSSE (cleaned JHU data)
